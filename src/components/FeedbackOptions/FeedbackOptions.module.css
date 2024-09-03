@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  gap: 24px;
+}
+
+.btn {
+  border-radius: 5px;
+  padding: 10px;
+  border-color: transparent;
+  background-color: #305cde;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #182e6f;
+}
